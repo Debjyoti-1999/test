@@ -1,3 +1,0 @@
-UserA
-2 UserA
-Fetch request
